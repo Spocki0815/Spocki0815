@@ -5,7 +5,7 @@
 update:  problem solved
 - 💞️ I’m looking to collaborate with code writing and understanding
 - A finished project is running since years witch opens and closes shutters on the windows at different times
-- with soldered units controlled by port expanders
+- with soldered units controlled by port expanders (mcp23017)
 - pico project in micropython - I try to trasfer the above project with mcp23017
 
 <!---
